@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Samuel Dorfman
 - 🌱 I’m currently learning web development tools and C/C++
-- 📫 How to reach me: sdorfman@umich.edu
+- 📫 How to reach me: sdorfman@umich.edu or samdorfman0@gmail.com
 - 😄 Pronouns: he/him
 
 <!---
