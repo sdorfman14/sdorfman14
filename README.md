@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Samuel Dorfman
-- 🌱 I’m currently learning computer networking
+- 🌱 I’m currently learning distributed systems
 - 📫 How to reach me: sdorfman@umich.edu or samdorfman0@gmail.com
 - 😄 Pronouns: he/him
 
